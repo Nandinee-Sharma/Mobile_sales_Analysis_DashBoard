@@ -94,4 +94,3 @@ Two main tables:
  - Download and open MobileSalesDashboard.pbix in Power BI Desktop.
  - Use slicers to filter by brand, model, payment method, or year.
  - Hover or click visuals to explore data.
- - Use "Refresh" if connected to a live source.
