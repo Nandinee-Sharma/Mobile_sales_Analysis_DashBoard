@@ -5,9 +5,6 @@ This project presents a **Mobile Sales Dashboard** built using Power BI. It enab
 ## 📦 File Included
 - `MobileSalesDashboard.pbix` — Main Power BI dashboard file.
 ---
-## Main page view
-- ![Dashboard Screenshot](screenshots/screenshot1.png)
-- rest other informative screenshots can be viewed in the screenshots folder.
 
 ## 📈 Dashboard Pages
 ### 1. 📌 **Dashboard (Main Overview)**
@@ -18,11 +15,15 @@ This project presents a **Mobile Sales Dashboard** built using Power BI. It enab
 - Sales by Brand and Mobile Model
 - Customer Ratings Visual (Bar)
 - Sales by Day (Line Chart)
+- ![Dashboard Screenshot](screenshots/screenshot1.png)
+
 
 ### 2. 📅 **MTD Report**
 - Month-To-Date sales line chart
 - Filters: Model, Brand, Payment Method
 - Year-Month-Day timeline trend
+- ![MTD Screenshot](screenshots/screenshot2.png)
+
 
 ### 3. 📉 **Same Period Last Year**
 - Side-by-side comparison with last year by:
@@ -30,6 +31,8 @@ This project presents a **Mobile Sales Dashboard** built using Power BI. It enab
   - Quarter
   - Year
 - Tabular summary and bar charts
+- ![Same Period Last Year Screenshot](screenshots/screenshot3.png)
+
 
 ---
 - 
