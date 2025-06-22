@@ -6,7 +6,7 @@ This project presents a **Mobile Sales Dashboard** built using Power BI. It enab
 - `MobileSalesDashboard.pbix` — Main Power BI dashboard file.
 ---
 ## Main page view
-- ![Dashboard Screenshot](./screenshot1.png)
+- ![Dashboard Screenshot](screenshots/screenshot1.png)
 - rest other informative screenshots can be viewed in the screenshots folder.
 
 ## 📈 Dashboard Pages
